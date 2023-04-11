@@ -66,5 +66,4 @@ Pérez-Rave, J., Correa, J. C., & Echavarría, F. G. (2019). A machine learning 
 
 Valier, A. (2020). Who performs better? AVMs vs hedonic models. Journal of Property Investment & Finance, 38(3), 213–225. https://doi.org/10.1108/jpif-12-2019-0157
 
-
 W. (n.d.). GitHub - whchien/funda-scraper: FundaScaper scrapes data from Funda, the Dutch housing website. You can find listings from house-buyer or rental market, and historical data. GitHub. https://github.com/whchien/funda-scraper
